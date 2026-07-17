@@ -1,10 +1,13 @@
-# Leprosy_powerBI-Dashboard
-🦠 Leprosy Data of India Dashboard
+<img width="1698" height="717" alt="Screenshot 2026-07-17 101253" src="https://github.com/user-attachments/assets/37165d5f-ef8f-4101-b3cc-f24d575b90b0" /># Leprosy_powerBI-Dashboard
 Description
 
 Welcome to the Leprosy Data of India Dashboard repository! This project presents an interactive Power BI dashboard designed to analyze and visualize leprosy statistics across India. The dashboard transforms raw healthcare data into meaningful insights, enabling users to explore state-wise disease distribution, prevalence rates, yearly trends, and treatment outcomes through dynamic and interactive visualizations. It aims to support healthcare professionals, researchers, and policymakers in understanding disease patterns and making informed public health decisions.
+![Uploading Screenshot 2026-07-17 101253.png…]()
+<img width="1026" height="666" alt="Screenshot 2026-07-17 101319" src="https://github.com/user-attachments/assets/372c31e6-c0b2-4b50-a4c4-91cd2f98de8b" />
 
-Key Features
+
+
+Key Features- 
 National Overview: View key healthcare indicators, including Total New Cases Detected and Total Cases Discharged as Cured, through intuitive KPI cards.
 Interactive Geographic Analysis: Explore the distribution of leprosy cases across different states and union territories using an interactive bubble map to identify high-burden regions.
 State-wise Analysis: Compare prevalence rates and reported cases across states using interactive charts and dynamic filters.
@@ -21,4 +24,3 @@ Microsoft Excel – Data preparation and source management.
 Project Objective
 
 The primary objective of this project is to demonstrate how Business Intelligence (BI) tools can be applied to healthcare datasets for effective analysis and visualization. By presenting complex health data in an intuitive format, the dashboard enables users to monitor disease prevalence, identify regional disparities, evaluate treatment outcomes, and support evidence-based decision-making for leprosy surveillance and control programs across India.
-<img width="1026" height="666" alt="Screenshot 2026-07-17 101319" src="https://github.com/user-attachments/assets/8e45c9a4-c4df-4a6c-a488-3d9d2c36a961" />
