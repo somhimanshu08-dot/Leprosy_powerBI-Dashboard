@@ -1,6 +1,4 @@
 # Leprosy_powerBI-Dashboard
-Description
-
 Welcome to the Leprosy Data of India Dashboard repository! This project presents an interactive Power BI dashboard designed to analyze and visualize leprosy statistics across India. The dashboard transforms raw healthcare data into meaningful insights, enabling users to explore state-wise disease distribution, prevalence rates, yearly trends, and treatment outcomes through dynamic and interactive visualizations. It aims to support healthcare professionals, researchers, and policymakers in understanding disease patterns and making informed public health decisions.
 
 <img width="1698" height="717" alt="Screenshot 2026-07-17 101253" src="https://github.com/user-attachments/assets/37165d5f-ef8f-4101-b3cc-f24d575b90b0" />
